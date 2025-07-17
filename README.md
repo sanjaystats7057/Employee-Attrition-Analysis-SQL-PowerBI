@@ -15,8 +15,7 @@ This project analyzes employee attrition patterns to help HR teams reduce turnov
 - Males show slightly higher attrition compared to females.
 
 ## 📌 Dashboard Preview
-![Dashboard](<img width="922" height="503" alt="dashboard" src="https://github.com/user-attachments/assets/ce2b7732-0fff-4868-87cd-164126198d1b" />
-)
+
 
 
 ## 📁 Files Included
