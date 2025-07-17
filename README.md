@@ -15,7 +15,7 @@ This project analyzes employee attrition patterns to help HR teams reduce turnov
 - Males show slightly higher attrition compared to females.
 
 ## 📌 Dashboard Preview
-![Dashboard](https://github.com/sanjaystats7057/Employee-Attrition-Analysis-SQL-PowerBI/blob/main/dashboard.png)
+![Dashboard](https://github.com/sanjaystats7057/Employee-Attrition-Analysis-SQL-PowerBI/blob/main/dashboard1.png)
 
 
 
